@@ -83,21 +83,23 @@ class Contact extends Component {
 						   {name}<br />
 						   {street} <br />
 						   {city}, {state}, {zip}<br />
-						   <span>{phone}, {email}<br />
-					   </p>
+						   {email} <br /> 
+	                                     </p>
+	    
+	                                 
 				   </div>
 
-               {/* <div className="widget widget_tweets">
-                  <h4 className="widget-title"></h4>
-                  <ul id="twitter">
-                     <li>
+//                {<div className="widget widget_tweets">
+//                   <h4 className="widget-title"></h4>
+//                   <ul id="twitter">
+//                      <li>
                         
-                     </li>
-                     <li>
+//                      </li>
+//                      <li>
                         
-                     </li>
-                  </ul>
-		         </div> */}
+//                      </li>
+//                   </ul>
+// 		         </div>}
             </aside>
       </div>
    </section>
