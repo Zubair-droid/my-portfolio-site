@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name":"Syed Zubair",
+    "occupation":"A CS engineer",
+    "description":"MERN stack developer.",
+    "image":"profilepic.jpg",
+    "bio":"Product development charmed often interested in building new robust web applications on own interest, a regular python programmer doing some realsitic playful games using python tools and a future freelancer.",
+    "contactmessage":"Sweet something about to conversate? Inbox me @",
+    "email": "syedzubair958@gmail.com",
+    "phone": "9443914148",
+    "address":{
+      "street":"NTB road",
+      "city":"Salem",
+      "state":"TamilNadu",
+      "zip": "636006"
+    },
+    "website": " ",
+    "resumedownload":"https://drive.google.com/file/d/1WxKlrMHhvewoV6M0rxFfbEQav_SrCJcD/view?usp=sharing",
+    "social":[
+      
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/SyedZubairSU1",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/Zubair-droid",
+        "className":"fa fa-github"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/syed-zubair-msa/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100034427533825",
+        "className":"fa fa-facebook"
+      }
+    
+    ]
+  },
+  "resume":{
+    "skillmessage":"Skills are just a enlistment of what we expertise at and how crazy it gets developed and so few of my skills are",
+    "education":[
+      {
+        "school":"SRM Institute of Technology",
+        "degree":"B.Tech. in Computer Scince Engineering",
+        "graduated":"May 2022",
+        "description":"The journey of discovery and learning the interests of vast fields in the technology was been a real rollercoaster"
+      },
+      {
+        "school":"GHSS Higher Secondary School",
+        "degree":"HSC in Science",
+        "graduated":"March 2018",
+        "description":"The experience got up to the level of being always ready in learning new things."
+      }
+    ],
+    "work":[
+      {
+        "company":"CodeSpeedy Technology",
+        "title":"Intern ",
+        "years":"December 2020 - Present",
+        "description":"Basically granted a programming and problem solving role for a projects which are built collaboratively."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React.js",
+        "level":"80%"
+      },
+      {
+        "name":"javascript",
+        "level":"80%"
+        
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Foodhem",
+        "category":"A web app for food redistribution system",
+        "image":"Capture.PNG",
+        "url":"https://github.com/Zubair-droid/foodhem"
+      },
+      {
+        "title":"Keeper - A Clone web app of Google Clone",
+        "category":"Notes",
+        "image":"2.PNG",
+        "url":"https://github.com/Zubair-droid/react-keeper"
+      }
+      
+     
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"That Syed Zubair must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Qazi... Entrepreneur"
+      }
+    ]
+  }
+}
