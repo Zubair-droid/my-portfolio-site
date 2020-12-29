@@ -3,7 +3,7 @@
 
 Snap of header:
 <img src = "https://github.com/Zubair-droid/my-portfolio-site/blob/main/site_snap.PNG" >
-Check the site <a href = "https://priceless-portfolio.netlify.app/"> HERE </a>
+
 
 Getting Started with Create React App
 
