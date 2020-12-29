@@ -82,8 +82,8 @@ class Contact extends Component {
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />
-						   {city}, {state} {zip}<br />
-						   <span>{phone}<span>{email}
+						   {city}, {state}, {zip}<br />
+						   <span>{phone}, {email}<br />
 					   </p>
 				   </div>
 
