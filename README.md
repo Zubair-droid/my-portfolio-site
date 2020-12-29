@@ -1,5 +1,8 @@
 # Making My Portfolio site with React
 
+Snap of header:
+<img src = "https://github.com/Zubair-droid/my-portfolio-site/blob/main/site_snap.PNG" >
+
 Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
