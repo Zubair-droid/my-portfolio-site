@@ -4,7 +4,7 @@
     "occupation":"A CS engineer",
     "description":"MERN stack developer.",
     "image":"profilepic.jpg",
-    "bio":"Product development charmed often interested in building new robust web applications on own interest, a regular python programmer doing some realsitic playful games using python tools and a future freelancer.",
+    "bio":"Product development charmed, often interested in building new robust web applications on own interest, a regular python programmer doing some realsitic playful games using python tools and a future freelancer.",
     "contactmessage":"Sweet something about to conversate? Inbox me @",
     "email": "syedzubair958@gmail.com",
     "phone": "9443914148",
@@ -44,13 +44,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Skills are just a enlistment of what we expertise at and how crazy it gets developed and so few of my skills are",
+
     "education":[
       {
         "school":"SRM Institute of Technology",
         "degree":"B.Tech. in Computer Scince Engineering",
         "graduated":"May 2022",
-        "description":"The journey of discovery and learning the interests of vast fields in the technology was been a real rollercoaster"
+        "description":"The journey of discovery and learning the interests of vast fields in the technology has been a real rollercoaster"
       },
       {
         "school":"GHSS Higher Secondary School",
