@@ -1,4 +1,4 @@
-# Making My Portfolio site with React
+# Making My Portfolio site with Reactjs
 
 
 Snap of the header:
