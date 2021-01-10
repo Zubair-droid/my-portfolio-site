@@ -3,7 +3,7 @@
 
 Snap of the header:
 
-<img src = "https://github.com/Zubair-droid/my-portfolio-site/blob/main/site_snap.PNG" >
+<img src = "https://github.com/Zubair-droid/my-portfolio-site/blob/main/public/images/header_snap.PNG" >
 
 Check me <a href = "https://priceless-portfolio.netlify.app/" > HERE </a>
 
