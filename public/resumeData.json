@@ -111,6 +111,12 @@
         "category":"My portfolio site completely built with Reactjs (this)",
         "image":"header_snap.PNG",
         "url":"https://github.com/Zubair-droid/my-portfolio-site"
+      },
+      {
+        "title":"Linkedin Clone ",
+        "category":"Linkedin Clone website built with Reactjs, Redux, Firebase",
+        "image":"1.JPG",
+        "url":"https://github.com/Zubair-droid/linkedin-clone"
       }
       
      
