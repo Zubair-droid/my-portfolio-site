@@ -4,14 +4,14 @@
     "occupation":"A CS engineer",
     "description":"MERN stack developer.",
     "image":"profilepic.jpg",
-    "bio":"Progressive and determined computer science engineer looking for projects of diverse web development technologies, primarily being a MERN stack enthusiast, patriotic web developer regularly practicing the skills acquired through implementing on projects of opensource, very soon open to work on a software engineer role at technological franchise..",
+    "bio":"A results-driven software engineer with a passion for building high-performance, SEO-optimized e-commerce platforms using Next.js. With a sharp eye for innovation, I specialize in crafting scalable, user-centric web solutions that drive business growth.Currently, I am expanding my expertise in Generative AI, exploring automation techniques, and developing AI-powered chatbots to revolutionize online experiences. My entrepreneurial mindset fuels my ambition to transform cutting-edge technology into profitable SaaS products.",
     "contactmessage":"Sweet something about to conversate? Inbox me @",
     "email": "syedzubair958@gmail.com",
     "phone": "9443914148",
     "address":{
       "street":"NTB road",
       "city":"Salem",
-      "state":"TamilNadu",
+      "state":"India",
       "zip": "636006"
     },
     "website": " ",
@@ -50,36 +50,43 @@
         "school":"SRM Institute of Technology",
         "degree":"B.Tech. in Computer Scince Engineering",
         "graduated":"May 2022",
-        "description":"The journey of discovery and learning the interests of vast fields in the technology has been a real rollercoaster"
+        "description":"During my college years, I honed my problem-solving skills and deepened my passion for software development. Engaging in hands-on projects, hackathons, and collaborative coding challenges, I built a strong foundation in web technologies and automation. My curiosity for AI and e-commerce development began here, driving me to explore real-world applications and innovative solutions."
       },
       {
         "school":"GHSS Higher Secondary School",
         "degree":"HSC in Science",
         "graduated":"March 2018",
-        "description":"The experience got up to the level of being always ready in learning new things."
+        "description":"My schooling years laid the foundation for my analytical thinking and problem-solving abilities. With a keen interest in technology and innovation from an early age, I actively participated in science exhibitions, coding competitions, and extracurricular activities that nurtured my curiosity. This phase instilled in me a strong work ethic, discipline, and a passion for continuous learning—qualities that continue to drive my career today."
       }
     ],
     "work":[
-      {
-        "company":"CodeSpeedy Technology",
-        "title":"Intern ",
-        "years":"December 2020 - Present",
-        "description":"A programmer and problem solving role for coderspacket opensource projects."
+        {
+        "company":"Siemens",
+        "title":"SOftware Developer Engineer",
+        "years":"July 2022 - Present",
+        "description":"As a software engineer, I specialize in building scalable, SEO-powered e-commerce solutions using Next.js. My role involves designing and optimizing high-performance web applications, ensuring seamless user experiences, and implementing cutting-edge automation techniques. With a keen focus on innovation, I continuously explore Generative AI and chatbot development, aiming to integrate AI-driven solutions into modern web platforms. Balancing technical expertise with a problem-solving mindset, I thrive in dynamic environments where technology meets business impact."
       },
        {
         "company":"Reach Skyline",
-        "title":"Web developer Intern ",
-        "years":"April 2021 - Present",
+        "title":"Web developer Intern",
+        "years":"April 2021 - 2022 ",
         "description":"Working as developer concentrating on building creative designs and responsive web pages. "
-      }
+      },
+       {
+        "company":"CodeSpeedy Technology",
+        "title":"Intern",
+        "years":"December 2020 - 2021",
+        "description":"A programmer and problem solving role for coderspacket opensource projects."
+      },
     ],
     "skills":[
+      
       {
-        "name":"React.js",
+        "name":"React.js & Next.js",
         "level":"80%"
       },
       {
-        "name":"javascript",
+        "name":"javascript & typescript",
         "level":"80%"
         
       },
@@ -131,7 +138,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"That Syed Zubair must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text":"That Zubair must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user":"Qazi... Entrepreneur"
       }
     ]
